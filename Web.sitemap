@@ -4,10 +4,14 @@
       <siteMapNode title="Harjoitukset">
         <siteMapNode title="LocalDBDemo" url="e6531_LocalDBDemo.aspx"/>
         <siteMapNode title="DBDemo" url="e6531_DBDemo.aspx"/>
+        <siteMapNode title ="DBcontrols" url="e6531_dbcontrols.aspx"/>
+        <siteMapNode title="XMLreader" url="e6531_xmlreader.aspx"/>
+        <siteMapNode title="XMLreader" url="e6531_xmlreader2.aspx"/>
       </siteMapNode>
     <siteMapNode title="Viikkotehtavat">
       <siteMapNode title="Viikkotehtävä 1" url="viikkotehtava1.aspx"/>
       <siteMapNode title="Viikkotehtävä 2" url="viikkotehtava2.aspx"/>
+      <siteMapNode title="Viikkotehtävä 3" url="viikkotehtava3.aspx"/>
     </siteMapNode>
     </siteMapNode>
 </siteMap>

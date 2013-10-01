@@ -17,6 +17,25 @@
      
     </div>
 
+      <div class="nav">
+           <ul class="nav">
+    <li><a href="e6531_index.aspx" title="Home">Home</a>
+        <ul>
+            <li><a href="viikkotehtava1.aspx" title="viikkotehtava1">Viikkotehtava1</a> </li>
+            <li><a href="viikkotehtava2.aspx" title="viikkotehtava2">viikkotehtava2</a></li>
+        </ul>
+    </li>    
+     <li><a href="e6531_index.aspx" title="Harjoituksets">Harjoitukset</a>
+            <ul>
+            <li><a href="e6531_dbcontrols.aspx" title="DBcontrols">DBcontrols</a></li>
+            <li><a href="e6531_DBDemo.aspx" title="DBDemo">DemoDB</a></li>
+            <li><a href="e6531_xmlreader.aspx" title="xmlreader">xmlreader</a></li>
+          </ul>
+    </li>
+    
+</ul>
+      </div>
+
    <div class="leftCol">
        <asp:SiteMapDataSource id="nav1" runat="server" />
      <asp:TreeView ID="TreeView1" runat="server" DataSourceId="nav1" />
