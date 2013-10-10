@@ -7,9 +7,12 @@
         <siteMapNode title ="DBcontrols" url="e6531_dbcontrols.aspx"/>
         <siteMapNode title="XMLreader" url="e6531_xmlreader.aspx"/>
         <siteMapNode title="XMLreader" url="e6531_xmlreader2.aspx"/>
+        <siteMapNode title="RRSFeed" url="e6531_rrsfeed.aspx"/>
+        <siteMapNode title="Finnkinon raidat" url="e6531_finnkino.aspx"/>
       </siteMapNode>
     <siteMapNode title="Viikkotehtavat">
-      <siteMapNode title="Viikkotehtävä 1" url="viikkotehtava1.aspx"/>
+      <siteMapNode title="Välipalaute" url="e6531_valipalaute.aspx"/>
+      <siteMapNode title="Palautteet" url="e6531_palautteet.aspx"/>
       <siteMapNode title="Viikkotehtävä 2" url="viikkotehtava2.aspx"/>
       <siteMapNode title="Viikkotehtävä 3" url="viikkotehtava3.aspx"/>
     </siteMapNode>
